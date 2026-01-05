@@ -1,61 +1,12 @@
 {
   "byCode": {
-    "11TV1E": {
-      "username": "arizennn",
-      "rank": "vip",
-      "code": "11TV1E",
-      "purchaseDate": "2026-01-05T04:12:59.964Z",
-      "verified": false
-    },
-    "UQOJ00": {
-      "username": "arizennn",
-      "rank": "vip_plus",
-      "code": "UQOJ00",
-      "purchaseDate": "2026-01-05T04:13:14.192Z",
-      "verified": false
-    },
-    "9DLM7D": {
+    "OIQTM4": {
       "username": "arizennnn",
       "rank": "vip",
-      "code": "9DLM7D",
-      "purchaseDate": "2026-01-05T04:14:30.162Z",
-      "verified": false
-    },
-    "XQWDY3": {
-      "username": "arizennnn",
-      "rank": "vip_plus",
-      "code": "XQWDY3",
-      "purchaseDate": "2026-01-05T04:15:33.462Z",
-      "verified": false
-    },
-    "NBQBGH": {
-      "username": "arizennnn",
-      "rank": "mvp",
-      "code": "NBQBGH",
-      "purchaseDate": "2026-01-05T04:20:41.175Z",
-      "verified": false
-    },
-    "HCJN2W": {
-      "username": "Arizennnn",
-      "rank": "mvp",
-      "code": "HCJN2W",
-      "purchaseDate": "2026-01-05T04:24:31.697Z",
-      "verified": false
-    }
-  },
-  "byUser": {
-    "arizennn": {
-      "username": "arizennn",
-      "rank": "vip_plus",
-      "code": "UQOJ00",
-      "purchaseDate": "2026-01-05T04:13:14.192Z",
-      "verified": false
-    },
-    "arizennnn": {
-      "username": "Arizennnn",
-      "rank": "mvp",
-      "code": "HCJN2W",
-      "purchaseDate": "2026-01-05T04:24:31.697Z",
+      "rankName": "VIP",
+      "color": "#55FF55",
+      "purchaseDate": "2026-01-05T10:30:00Z",
+      "code": "OIQTM4",
       "verified": false
     }
   }
